@@ -49,9 +49,12 @@ This project implements a complete, real-time sentiment analysis pipeline. The s
   - `PresentationSlides.pptx`: The slides for the final project presentation.
 <br>
 
-- **`dashboard/`**: Kibana visualization artifacts.
-  - `export_dashboard.ndjson`: The exported Kibana dashboard configuration file for easy import.
-  - `*.png`: Screenshots of the live dashboard visualizations.
+- **`dashboard/`**: Contains all Kibana visualization artifacts, including screenshots and importable configuration files.
+  - `DashboardFullOverview.pdf`: A static PDF report of the full, live dashboard.
+  - `exported_dashboard_visualization.ndjson`: The configuration file to import the Kibana dashboard structure and visualizations.
+  - `exported_dashboard_data.ndjson`: The configuration file for the underlying data views used by the dashboard.
+  - `*.png`: A collection of screenshots showing the live dashboard and its individual components (e.g., `Sentiment.png`, `Top50Comments.png`).
+  - `README.md`: A dedicated guide within this folder on how to import and use the Kibana dashboard artifacts.
 <br>
 
 ### 🚀 Getting Started
