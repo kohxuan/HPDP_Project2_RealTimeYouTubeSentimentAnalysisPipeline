@@ -31,7 +31,7 @@ This project implements a complete, real-time sentiment analysis pipeline. The s
     - `lr_sentiment_model.pkl`: The trained Logistic Regression model.
     - `nb_sentiment_model.pkl`: The trained Naive Bayes model.
     - `tfidf_vectorizer.pkl`: The trained TF-IDF vectorizer.
-  - `readme.md`: Step-by-step instructions for running the pipeline.
+  - `README.md`: Step-by-step instructions for running the pipeline.
 <br>
 
 - **`notebooks/`**: Jupyter notebooks for model development.
