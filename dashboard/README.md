@@ -4,8 +4,8 @@ This dashboard folder contains all Kibana-related visualizations and exports use
 
 ### 📸 Contents:
 
-- `screenshots/` – Images of the real-time sentiment analysis dashboard in Kibana.
-- `Kibana visualization export.ndjson` and `Kibana data export.ndjson` – A JSON-formatted export of the Kibana dashboard (importable in other environments).
+- `*.png` – Images of the real-time sentiment analysis dashboard in Kibana.
+- `exported_dashboard_visualization.ndjson` and `exported_dashboard_data.ndjson` – A JSON-formatted export of the Kibana dashboard (importable in other environments).
 
 ### 📥 How to Import the Dashboard in Kibana
 
@@ -23,11 +23,11 @@ Your dashboard will now be available under the **Dashboards** section of Kibana.
 
 ## 🖼️ Kibana Dashboard Preview
 
-<img src="project dashboard2_page-0001.jpg" alt="Kibana Dashboard" width="700"/>
-<img src="Screenshot 2025-06-30 152743.png" alt="Kibana Dashboard" width="700"/>
-<img src="Screenshot 2025-06-30 152755.png" alt="Kibana Dashboard" width="700"/>
-<img src="Screenshot 2025-06-30 152819.png" alt="Kibana Dashboard" width="700"/>
-<img src="Screenshot 2025-06-30 152830.png" alt="Kibana Dashboard" width="700"/>
-<img src="Screenshot 2025-06-30 152841.png" alt="Kibana Dashboard" width="700"/>
-<img src="Screenshot 2025-06-30 152850.png" alt="Kibana Dashboard" width="700"/>
+<img src="DashboardFullOverview.jpg" alt="Kibana Dashboard" width="700"/>
+<img src="TotalComments.png" alt="Kibana Dashboard" width="700"/>
+<img src="TotalDifferentVideos.png" alt="Kibana Dashboard" width="700"/>
+<img src="Sentiment.png" alt="Kibana Dashboard" width="700"/>
+<img src="SentimentAnalysisGraph.png" alt="Kibana Dashboard" width="700"/>
+<img src="VideoDetails.png" alt="Kibana Dashboard" width="700"/>
+<img src="Top50Comments.png" alt="Kibana Dashboard" width="700"/>
 
